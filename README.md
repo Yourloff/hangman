@@ -11,7 +11,13 @@
         __|________
         |         |
 
-Start the game:
+## Pre-launch preparation
+
+```
+bundle install
+```
+
+## Usage:
 
 ```
 ruby main.rb
@@ -20,3 +26,5 @@ ruby main.rb
 To add new words to the game:
 
 `data/words.txt`. Add Cyrillic uppercase words in one line.
+
+The library is used [colorize](https://github.com/fazibear/colorize).
