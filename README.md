@@ -20,7 +20,7 @@ bundle install
 ## Usage:
 
 ```
-ruby main.rb
+bundle exec ruby main.rb
 ```
 
 To add new words to the game:
