@@ -1,5 +1,7 @@
 #encoding: UTF-8
 
+require 'colorize'
+require 'colorized_string'
 require_relative 'lib/console_interface'
 require_relative 'lib/game'
 
