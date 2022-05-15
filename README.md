@@ -11,7 +11,11 @@
         __|________
         |         |
 
-Start the game: `ruby main.rb`
+Start the game:
+
+```
+ruby main.rb
+```
 
 To add new words to the game:
 
